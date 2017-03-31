@@ -1,0 +1,4 @@
+# [fun-flip](https://bagrounds.gitlab.io/fun-flip)
+
+((a1, a2, ..., an) -> x) -> ((an, ..., a2, a1) -> x)
+
