@@ -1,6 +1,6 @@
 {
   "name": "fun-flip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "((a1, a2, ..., an) -> x) -> ((an, ..., a2, a1) -> x)",
   "main": "src/index.js",
   "scripts": {
